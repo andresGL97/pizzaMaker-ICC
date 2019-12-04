@@ -12,3 +12,17 @@
 /Users/andresg/Projects/pizzaMakerICC/PizzaMakerICC/PizzaMakerICC/obj/Debug/PizzaMakerICC.csproj.CopyComplete
 /Users/andresg/Projects/pizzaMakerICC/PizzaMakerICC/PizzaMakerICC/obj/Debug/PizzaMakerICC.dll
 /Users/andresg/Projects/pizzaMakerICC/PizzaMakerICC/PizzaMakerICC/obj/Debug/PizzaMakerICC.pdb
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/bin/PizzaMakerICC.dll
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/bin/PizzaMakerICC.pdb
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/bin/Newtonsoft.Json.dll
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/bin/System.Net.Http.Formatting.dll
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/bin/System.Web.Http.dll
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/bin/System.Web.Http.WebHost.dll
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/bin/Newtonsoft.Json.xml
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/bin/System.Net.Http.Formatting.xml
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/bin/System.Web.Http.xml
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/bin/System.Web.Http.WebHost.xml
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/obj/Debug/PizzaMakerICC.csprojAssemblyReference.cache
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/obj/Debug/PizzaMakerICC.csproj.CopyComplete
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/obj/Debug/PizzaMakerICC.dll
+/Users/andresg/Projects/pizzaMaker-ICC/PizzaMakerICC/obj/Debug/PizzaMakerICC.pdb
